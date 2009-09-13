@@ -38,27 +38,23 @@ PROFESSIONAL EXPERIENCE:
   modular, extensible components that are much less intimidating to new
   developers than were their predecessors.
 
-  Improved performance of bulk data import system by first setting up
-  instrumentation for profiling and then targeting areas identified as
-  bottlenecks.
-
   Wrote an automatic long-term load monitoring tool for the bulk data import
-  process out of curiosity.  Four years later this tool (and the data gathered)
-  serves as an important window into historical trends in client activity.
+  process out of curiosity.  Four years later this tool serves as an important
+  window into historical trends in client activity.
 
   Wrote a data import batch scheduler to maximize throughput for large jobs,
   minimize latency for small jobs and ensure fairness across clients.
-  Scheduler is now also used for bulk subscription management and query
+  This scheduler is now also used for bulk subscription management and query
   execution.
+
+  Wrote tools to explore data produced by next generation application out of
+  curiosity.  These tools now form the foundation of the new production
+  reporting system.
 
   Acted as a "testing evangelist", encouraging simultaneous development of
   unit tests with features (thereby sneakily encouraging modularity) and
   challenging the assertion that a bug fix is complete when there's no
   accompanying regression test.
-
-  Wrote tools to explore data produced by next generation application out of
-  curiosity.  These tools now form the foundation of the new production
-  reporting system.
 
   Gave technical presentations on topics of interest including character sets
   and encodings, handling large datasets with limited resources and managing
