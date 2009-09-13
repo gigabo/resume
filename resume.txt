@@ -59,7 +59,7 @@ PROFESSIONAL EXPERIENCE:
   Gave technical presentations on topics of interest including character sets
   and encodings, handling large datasets with limited resources and managing
   concurrency in long-running processes.
-
+
 OPEN SOURCE CONTRIBUTIONS:
 
   Gnu Coreutils
