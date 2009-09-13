@@ -32,25 +32,24 @@ PROFESSIONAL EXPERIENCE:
 
   Software Engineer -> Senior Software Engineer -> Tech Lead
   
+  Designed and lead development of the mailing, content and export subsystems
+  for "next generation" email marketing platform.  Incorporated technical
+  lessons learned from the first generation as well as client input.  Produced
+  modular, extensible components that are much less intimidating to new
+  developers than were their predecessors.
+
   Improved performance of bulk data import system by first setting up
   instrumentation for profiling and then targeting areas identified as
   bottlenecks.
 
-  Wrote an automatic long-term performance monitoring tool for the bulk data
-  import process out of curiosity.  Four years later this tool (and the data
-  gathered) serves as an important window into historical trends in client
-  activity.
+  Wrote an automatic long-term load monitoring tool for the bulk data import
+  process out of curiosity.  Four years later this tool (and the data gathered)
+  serves as an important window into historical trends in client activity.
 
   Wrote a data import batch scheduler to maximize throughput for large jobs,
   minimize latency for small jobs and ensure fairness across clients.
   Scheduler is now also used for bulk subscription management and query
   execution.
-
-  Designed and lead development of the mailing, content and export subsystems
-  for "next generation" email marketing platform.  Incorporated technical
-  lessons learned from the first generation as well as client input.  Wound up
-  with modular, extensible components that are much less intimidating to new
-  developers than were their predecessors.
 
   Acted as a "testing evangelist", encouraging simultaneous development of
   unit tests with features (thereby sneakily encouraging modularity) and
@@ -65,7 +64,7 @@ PROFESSIONAL EXPERIENCE:
   and encodings, handling large datasets with limited resources and managing
   concurrency in long-running processes.
 
-OPEN SOURCE INTERESTS:
+OPEN SOURCE CONTRIBUTIONS:
 
   Gnu Coreutils
 
