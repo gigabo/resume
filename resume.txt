@@ -21,10 +21,10 @@ GOALS:
   it.  Teaching something helps me really understand it.  It also increases
   the number of people with whom I can discuss all the cool things I learn.
 
-  TO EXPERIMENT:  This is the best kind of learning.  Some of my most useful
+  TO EXPLORE:  This is the best kind of learning.  Some of my most useful
   (and rewarding) projects have grown from small tools I've written out of
-  curiosity.  Whether I'm exploring a new language, a new dataset or just a
-  new crazy idea, I'm always experimenting.
+  curiosity.  Whether I'm checking out a new language, investigating a new
+  dataset or just entertaining a new crazy idea, I'm always exploring.
 
 PROFESSIONAL EXPERIENCE:
 
@@ -35,8 +35,7 @@ PROFESSIONAL EXPERIENCE:
   Designed and lead development of the mailing, content and export subsystems
   for "next generation" email marketing platform.  Incorporated technical
   lessons learned from the first generation as well as client input.  Produced
-  modular, extensible components that are much less intimidating to new
-  developers than were their predecessors.
+  modular, extensible components that are approachable for new developers.
 
   Wrote an automatic long-term load monitoring tool for the bulk data import
   process out of curiosity.  Four years later this tool serves as an important
@@ -84,9 +83,9 @@ OPEN SOURCE CONTRIBUTIONS:
 
 ALPHABET SOUP:
 
-  OS: I prefer Linux.
+  OS: I prefer Linux.  I can learn anything.
 
-  PROGRAMMING LANGUAGES: Perl, C and JavaScript.
+  PROGRAMMING LANGUAGES: Professional Perl, C and JavaScript.
                          Desire and ability to learn others.
 
   QUERY, MARKUP, OBJECT NOTATION LANGUAGES: SQL, HTML, XML, JSON.
