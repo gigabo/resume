@@ -6,4 +6,4 @@ resume.ps: resume.txt
 	a2ps $^ -o $@ -1RB --borders=no
 
 clean:
-	rm resume.ps resume.pdf
+	rm resume.p*
