@@ -46,21 +46,21 @@ PROFESSIONAL EXPERIENCE:
   This scheduler is now also used for bulk subscription management and query
   execution.
 
-  Wrote tools to explore data produced by next generation application out of
-  curiosity.  These tools now form the foundation of the new production
+  Wrote, out of curiosity, tools to explore data produced by next generation
+  application.  These tools now form the foundation of the new production
   reporting system.
 
   Acted as a "testing evangelist", encouraging simultaneous development of
   unit tests with features and challenging the assertion that a bug fix is
   complete when there's no accompanying regression test.
 
-  Gave technical presentations on topics including character sets and
-  encodings, handling large datasets with limited resources and managing
-  concurrency in long-running processes.
+  Gave technical presentations to audiences of up to fifty software engineers
+  on topics including character sets and encodings, handling large datasets
+  with limited resources and managing concurrency in long-running processes.
 
 OPEN SOURCE CONTRIBUTIONS:
 
-  Gnu Coreutils / Gnulib
+  GNU COREUTILS / GNULIB:
 
   Significantly improved the performance of the join utility by reducing
   memory management overhead.
@@ -73,7 +73,7 @@ OPEN SOURCE CONTRIBUTIONS:
   algorithm selection to the user and removing limits imposed by calling
   convention.
 
-  Perl 5 (core)
+  PERL 5 (CORE):
 
   Fixed bugs both of my own discovery and from the bug tracking system.  
 
@@ -96,9 +96,11 @@ RELATED SKILLS:
 
 EDUCATION:
 
-  B.A. in Computer Science from Kalamazoo College.
+  B.A. in Computer Science from Kalamazoo College.             (2000 - 2004)
 
-  One year Japan Study program at Waseda University in Tokyo, Japan.
+  Japan Study program at Waseda University in Tokyo, Japan.    (2002 - 2003)
+
+  Senior thesis ...
 
 
 OTHER INTERESTS:
