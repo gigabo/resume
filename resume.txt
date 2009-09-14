@@ -1,7 +1,6 @@
                                 Bo Borgerson
 
-Bo Borgerson                                                Home: 269-267-5949
-50 C. Columbus Dr, Apt 1413                                 Cell: 269-267-5949
+50 C. Columbus Dr, Apt 1413                                       269-267-5949
 Jersey City, NJ 07302                                         gigabo@gmail.com
 
 
@@ -11,20 +10,21 @@ SUMMARY:
   performance, scalable applications.  Insatiable learner who enjoys exploring
   datascapes and solving challenging problems.
 
+
 GOALS:
 
   TO LEARN:  I love learning new algorithms.  I love learning new idioms,
-  encountering new dialects and discovering new approaches.  I want to work
-  with really smart people who inspire me.
+  encountering new dialects and discovering new approaches.  I get up to speed
+  quickly, and improve constantly.
 
   TO TEACH:  When I learn something cool, I can't wait to tell someone about
-  it.  Teaching something helps me really understand it.  It also increases
-  the number of people with whom I can discuss all the cool things I learn.
+  it.  Teaching something helps me really understand it.  I share my expertise
+  and help improve the skills of everyone I work with.
 
   TO EXPLORE:  This is the best kind of learning.  Some of my most useful
   (and rewarding) projects have grown from small tools I've written out of
-  curiosity.  Whether I'm checking out a new language, investigating a new
-  dataset or just entertaining a new crazy idea, I'm always exploring.
+  curiosity.
+
 
 PROFESSIONAL EXPERIENCE:
 
@@ -32,16 +32,16 @@ PROFESSIONAL EXPERIENCE:
 
   Software Engineer -> Senior Software Engineer -> Tech Lead
   
-  Designed and lead development of the mailing, content and export subsystems
+  Designed and led development of the mailing, content and export subsystems
   for "next generation" email marketing platform.  Incorporated technical
   lessons learned from the first generation as well as client input.  Produced
   modular, extensible components that are approachable for new developers.
 
   Wrote an automatic long-term load monitoring tool for the bulk data import
-  process out of curiosity.  Four years later this tool serves as an important
-  window into historical trends in client activity.
+  process out of curiosity.  Four years later this tool continues to serve as
+  an important window into trends in client activity.
 
-  Wrote a data import batch scheduler to maximize throughput for large jobs,
+  Built a data import batch scheduler to maximize throughput for large jobs,
   minimize latency for small jobs and ensure fairness across clients.
   This scheduler is now also used for bulk subscription management and query
   execution.
@@ -51,17 +51,16 @@ PROFESSIONAL EXPERIENCE:
   reporting system.
 
   Acted as a "testing evangelist", encouraging simultaneous development of
-  unit tests with features (thereby sneakily encouraging modularity) and
-  challenging the assertion that a bug fix is complete when there's no
-  accompanying regression test.
+  unit tests with features and challenging the assertion that a bug fix is
+  complete when there's no accompanying regression test.
 
-  Gave technical presentations on topics of interest including character sets
-  and encodings, handling large datasets with limited resources and managing
+  Gave technical presentations on topics including character sets and
+  encodings, handling large datasets with limited resources and managing
   concurrency in long-running processes.
 
 OPEN SOURCE CONTRIBUTIONS:
 
-  Gnu Coreutils
+  Gnu Coreutils / Gnulib
 
   Significantly improved the performance of the join utility by reducing
   memory management overhead.
@@ -81,22 +80,33 @@ OPEN SOURCE CONTRIBUTIONS:
   Improved the performance of the split operation in scalar context by
   reducing memory management overhead.
 
-ALPHABET SOUP:
+
+RELATED SKILLS:
 
   OS: I prefer Linux.  I can learn anything.
 
-  PROGRAMMING LANGUAGES: Professional Perl, C and JavaScript.
-                         Desire and ability to learn others.
+  PROGRAMMING LANGUAGES: Professional experience with Perl, C and JavaScript.
+                         Hobby projects in Ruby, Erlang and Java.
+                         Desire and ability to learn many others.
 
   QUERY, MARKUP, OBJECT NOTATION LANGUAGES: SQL, HTML, XML, JSON.
 
   TOOLS: svn, git, gcc, make, screen, vim, bash.
 
+
 EDUCATION:
 
   B.A. in Computer Science from Kalamazoo College.
 
-  One of those four years was at Waseda University in Tokyo, Japan.
-  (That was awesome.)
+  One year Japan Study program at Waseda University in Tokyo, Japan.
 
-Thanks for reading!
+
+OTHER INTERESTS:
+
+  I read constantly.  I study Chinese.  I've played ping pong in clubs in the
+  US and China.  I commuted over the Brooklyn Bridge and through New York
+  traffic by bicycle for two years, and loved it.  I washed, fueled and
+  serviced small aircraft at a local airport in high school to pay for flight
+  lessons and earned my pilot's license when I was seventeen.  I like to hike
+  and to rock climb, to play frisbee and to canoe.  I like card games and board
+  games (and word games, too).
