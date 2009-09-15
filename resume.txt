@@ -11,19 +11,13 @@ SUMMARY:
   datascapes and solving challenging problems.
 
 
-GOALS:
+APPROACH:
 
-  TO LEARN:  I love learning new algorithms.  I love learning new idioms,
-  encountering new dialects and discovering new approaches.  I get up to speed
-  quickly, and improve constantly.
-
-  TO TEACH:  When I learn something cool, I can't wait to tell someone about
-  it.  Teaching something helps me really understand it.  I share my expertise
-  and help improve the skills of everyone I work with.
-
-  TO EXPLORE:  This is the best kind of learning.  Some of my most useful
-  (and rewarding) projects have grown from small tools I've written out of
-  curiosity.
+  I love to learn, so I get up to speed quickly and improve constantly.  I love
+  to teach, so I share my knowledge and help improve the skills of everyone I
+  work with.  I love to explore, so I come up with techniques and build tools
+  out of curiosity that increase productivity and, sometimes, grow into
+  unexpectedly useful solutions.
 
 
 PROFESSIONAL EXPERIENCE:
@@ -91,16 +85,16 @@ RELATED SKILLS:
 
   QUERY, MARKUP, OBJECT NOTATION LANGUAGES: SQL, HTML, XML, JSON.
 
-  TOOLS: svn, git, gcc, make, screen, vim, bash.
+  TOOLS: svn, git, gcc, gdb, valgrind, make, screen, vim, bash.
 
 
 EDUCATION:
 
-  B.A. in Computer Science from Kalamazoo College.             (2000 - 2004)
+  B.A. in Computer Science from Kalamazoo College.               (2000-2004)
 
-  Japan Study program at Waseda University in Tokyo, Japan.    (2002 - 2003)
+  Japan Study program at Waseda University in Tokyo, Japan.      (2002-2003)
 
-  Senior thesis ...
+  Senior thesis: Technical considerations for internet applications in China.
 
 
 OTHER INTERESTS:
