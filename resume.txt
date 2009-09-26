@@ -54,7 +54,7 @@ PROFESSIONAL EXPERIENCE:
 
   CheetahMail (not yet Experian)                                 (Summer 2001)
 
-  Intern
+  Software Engineering Intern
 
   Went in, not knowing Perl, with the understanding that I would have an
   unpaid internship.  Went back to school two months later with a hefty check
