@@ -1,7 +1,7 @@
                                 Bo Borgerson
 
-50 C. Columbus Dr, Apt 1413                                       269-267-5949
-Jersey City, NJ 07302                                         gigabo@gmail.com
+50 C. Columbus Dr, Apt 1413                                   gigabo@gmail.com
+Jersey City, NJ 07302                                             269-267-5949
 
 
 SUMMARY:
@@ -51,6 +51,15 @@ PROFESSIONAL EXPERIENCE:
   Gave technical presentations to audiences of up to fifty software engineers
   on topics including character sets and encodings, handling large datasets
   with limited resources and managing concurrency in long-running processes.
+
+  CheetahMail (not yet Experian)                                 (Summer 2001)
+
+  Intern
+
+  Went in, not knowing Perl, with the understanding that I would have an
+  unpaid internship.  Went back to school two months later with a hefty check
+  and a job offer.  Built a templatized content system for email campaigns
+  that's still in use today.
 
 OPEN SOURCE CONTRIBUTIONS:
 
