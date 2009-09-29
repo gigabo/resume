@@ -56,11 +56,17 @@ PROFESSIONAL EXPERIENCE:
 
   Software Engineering Intern
 
-  Went in, not knowing Perl, with the understanding that I would have an
-  unpaid internship.  Went back to school two months later with a hefty check
-  and a job offer.  Built a templatized content system for email campaigns
-  that's still in use today.
+  Took an unpaid internship, not knowing Perl, after one year of college.
+  Built (in Perl) a templatized content system for email campaigns that's still
+  in use today.  Went back to school at the end of the summer with a hefty
+  check and a job offer.
 
+                                Bo Borgerson
+
+50 C. Columbus Dr, Apt 1413                                   gigabo@gmail.com
+Jersey City, NJ 07302                                             269-267-5949
+
+
 OPEN SOURCE CONTRIBUTIONS:
 
   GNU COREUTILS / GNULIB:
