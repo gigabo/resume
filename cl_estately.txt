@@ -1,0 +1,24 @@
+Hi,
+
+My name is Bo.  I think I would make a great addition to the Estately
+development team.
+
+Over the last five years I've honed my skills as a backend developer while
+helping to take an email marketing company from scrappy start-up to industry
+powerhouse.  Along the way I've enjoyed working on challenging problems of
+performance, scale and reliability and I've been fortunate to work with really
+smart, interesting people.
+
+I want to keep the challenge and to continue working with smart people, but I
+want to get back to those startup roots and I want to do it in Seattle.  My
+professional programming experience is mostly with Perl, C and JavaScript, but
+I've done some work in Ruby on the "sup" email client, and enjoyed it.  I'm a
+fast (voracious) learner, so I don't expect language choice to be a problem.
+
+I'm interested in learning more about development at Estately.  Please have a
+look at my resume (attached), and feel free to contact me with any questions
+you might have.
+
+Thanks,
+
+Bo
