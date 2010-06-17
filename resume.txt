@@ -7,17 +7,17 @@ Seattle, WA 98103                                                 269-267-5949
 SUMMARY:
 
   Software Engineer with over five years of experience developing high
-  performance, scalable applications.  Insatiable learner who enjoys exploring
-  datascapes and solving challenging problems.
-
+  performance, scalable applications.  Ruthless tester, decorated bug-hunter,
+  fanatical data hygienist, intrinsically motivated problem solver.  I
+  love what I do, and I'm good at it.
 
 APPROACH:
 
-  I love to learn, so I get up to speed quickly and improve constantly.  I love
-  to teach, so I share my knowledge and help improve the skills of everyone I
-  work with.  I love to explore, so I come up with techniques and build tools
-  for fun that increase productivity and, sometimes, grow into unexpectedly
-  useful solutions.
+  I love to learn, so I get up to speed quickly and improve constantly.  I
+  love to teach, so I share my knowledge and help improve the skills of
+  everyone I work with.  I love to explore, so I come up with techniques and
+  build tools for fun that increase productivity and, sometimes, grow into
+  unexpectedly useful solutions.
 
 
 PROFESSIONAL EXPERIENCE:
@@ -32,7 +32,7 @@ PROFESSIONAL EXPERIENCE:
   modular, extensible components that are approachable for new developers.
 
   Wrote an automatic long-term load monitoring tool for the bulk data import
-  process out of curiosity.  Four years later this tool continues to serve as
+  process out of curiosity.  Five years later this tool continues to serve as
   an important window into trends in client activity.
 
   Built a data import batch scheduler to maximize throughput for large jobs,
@@ -57,9 +57,9 @@ PROFESSIONAL EXPERIENCE:
   Software Engineering Intern
 
   Took an unpaid internship, not knowing Perl, after one year of college.
-  Built (in Perl) a templatized content system for email campaigns that's still
-  in use today.  Went back to school at the end of the summer with a hefty
-  check and a job offer.
+  Built (in Perl) a templatized content system for email campaigns that's
+  still in use today.  Went back to school at the end of the summer with a
+  hefty check and a job offer.
 
                                 Bo Borgerson
 
@@ -67,7 +67,7 @@ PROFESSIONAL EXPERIENCE:
 Jersey City, NJ 07302                                             269-267-5949
 
 
-OPEN SOURCE CONTRIBUTIONS:
+OPEN SOURCE CONTRIBUTION HIGHLIGHTS:
 
   GNU COREUTILS / GNULIB:
 
@@ -115,9 +115,9 @@ EDUCATION:
 OTHER INTERESTS:
 
   I read constantly.  I study Chinese.  I've played ping pong in clubs in the
-  US and China.  I commuted over the Brooklyn Bridge and through New York City
-  traffic by bicycle for two years, and loved it.  I washed, fueled and
+  US and China.  I commuted over the Brooklyn Bridge and through New York
+  City traffic by bicycle for two years, and loved it.  I washed, fueled and
   serviced small aircraft at a local airport in high school to pay for flight
   lessons and earned my pilot's license when I was seventeen.  I like to hike
-  and to rock climb, to play frisbee and to canoe.  I like card games and board
-  games (and word games, too).
+  and to rock climb, to play frisbee and to canoe.  I like card games and
+  board games (and word games, too).
