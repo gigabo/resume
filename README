@@ -1,0 +1,7 @@
+Had a scare with my laptop HDD failing to mount this morning, and decided I'd
+better get this backed up.  I already had it in a git repo, so github seems
+like the natural place.
+
+I build the PDF version with a simple `make`.
+
+Requires a2ps and ps2pdf.
