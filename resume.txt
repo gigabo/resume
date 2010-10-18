@@ -8,8 +8,10 @@ SUMMARY:
 
   Software Engineer with over five years of experience developing high
   performance, scalable applications.  Ruthless tester, decorated bug-hunter,
-  fanatical data hygienist, intrinsically motivated problem solver.  I
-  love what I do, and I'm good at it.
+  fanatical data hygienist, intrinsically motivated problem solver.
+
+  I love what I do, and I'm good at it.
+
 
 APPROACH:
 
@@ -17,7 +19,7 @@ APPROACH:
   love to teach, so I share my knowledge and help improve the skills of
   everyone I work with.  I love to explore, so I come up with techniques and
   build tools for fun that increase productivity and, sometimes, grow into
-  unexpectedly useful solutions.
+  unexpectedly durable solutions.
 
 
 PROFESSIONAL EXPERIENCE:
@@ -31,18 +33,13 @@ PROFESSIONAL EXPERIENCE:
   lessons learned from the first generation as well as client input.  Produced
   modular, extensible components that are approachable for new developers.
 
-  Wrote an automatic long-term load monitoring tool for the bulk data import
-  process out of curiosity.  Five years later this tool continues to serve as
-  an important window into trends in client activity.
-
   Built a data import batch scheduler to maximize throughput for large jobs,
   minimize latency for small jobs and ensure fairness across clients.
   This scheduler is now also used for bulk subscription management and query
   execution.
 
-  Wrote, out of curiosity, tools to explore data produced by next generation
-  application.  These tools now form the foundation of the new production
-  reporting system.
+  Wrote, out of curiosity, tools to explore data produced by our application.
+  These tools now form the foundation of the new production reporting system.
 
   Acted as a "testing evangelist", encouraging simultaneous development of
   unit tests with features and challenging the assertion that a bug fix is
