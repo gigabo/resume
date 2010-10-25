@@ -99,7 +99,7 @@ OPEN SOURCE CONTRIBUTION HIGHLIGHTS:
 
 RELATED SKILLS:
 
-  OS: I prefer Linux.  I can learn anything.
+  OS: I prefer Linux or OSX.  I can use anything.
 
   PROGRAMMING LANGUAGES: Professional experience with Perl, C and JavaScript.
                          Hobby projects in Ruby, Erlang and Java.
